@@ -1,0 +1,52 @@
+{
+  "name": "expat",
+  "version": "2.8.4",
+  "build": "hd7fb8db_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "expat-2.8.4-hd7fb8db_0.conda",
+  "md5": "7325e5c79967d8f6653626ac5081737d",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/expat-2.8.4-hd7fb8db_0.conda",
+  "sha256": "a4fa27e9ba0a0a158606dcac98af29dcf5701474cc05240c6d731bdf9bc931ed",
+  "depends": [
+    "libexpat 2.8.4 hd7fb8db_0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1788290035000,
+  "size": 32786,
+  "_requested_specs": [],
+  "package_tarball_full_path": "C:\\Users\\Acer\\anaconda3\\pkgs\\expat-2.8.4-hd7fb8db_0.conda",
+  "extracted_package_dir": "C:\\Users\\Acer\\anaconda3\\pkgs\\expat-2.8.4-hd7fb8db_0",
+  "files": [
+    "Library/bin/xmlwf.exe",
+    "Library/share/man/man1/xmlwf.1"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/xmlwf.exe",
+        "path_type": "hardlink",
+        "sha256": "3182efb07f736428c29267c2fab356adf3fe89301d7057d11024d93528c6cec2",
+        "size_in_bytes": 47944,
+        "sha256_in_prefix": "3182efb07f736428c29267c2fab356adf3fe89301d7057d11024d93528c6cec2"
+      },
+      {
+        "_path": "Library/share/man/man1/xmlwf.1",
+        "path_type": "hardlink",
+        "sha256": "e0b43f0c8dffcb620f232060b5020c374ddbcf9de697731d9b637b467868e8be",
+        "size_in_bytes": 11513,
+        "sha256_in_prefix": "e0b43f0c8dffcb620f232060b5020c374ddbcf9de697731d9b637b467868e8be"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\Acer\\anaconda3\\pkgs\\expat-2.8.4-hd7fb8db_0",
+    "type": 1
+  }
+}

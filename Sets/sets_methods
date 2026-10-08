@@ -1,0 +1,20 @@
+set1 = {1, 2, 3, 4, 5, 6}
+set2 = {3, 5, 6}
+
+print(set1.issubset(set2))
+
+print(set1.issuperset(set2))
+
+lst = [1, 1, 2, 2, 3, 3, 4, 4, 5, 6, 7]
+print(set(lst))
+
+# Counting unique words in text
+
+text = "In this tutorial we are discussing about sets"
+words = text.split()
+
+#Convert list of words to set to get unique words
+
+unique_words = set(words)
+print(unique_words)
+print(len(unique_words))
